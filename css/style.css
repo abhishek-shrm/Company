@@ -1,0 +1,72 @@
+.navbar-wrapper{
+    position: absolute;
+    top:0;
+    left:0;
+    right:0;
+    z-index:100;
+}
+
+.mycarousel{
+    height:400px;
+    min-width:50%;
+}
+
+.carousel-inner > .carousel-item> img{
+    position: absolute;
+    min-width:100%;
+    top:0;
+    left:0;
+}
+
+.carousel-inner>.carousel-item{
+    height:480px;
+}
+
+.team .col-lg-4{
+    text-align:center;
+    margin-bottom:20px;
+    margin-top: 20px;
+}
+
+.team h2{
+    color:rgba(50,50,50,0.8);
+}
+
+.team p{
+    margin-right:10px;
+    margin-left:10px;
+}
+
+hr{
+    width:90%;
+    margin-bottom: 40px;
+    margin-top:40px;
+}
+
+.mice{
+    padding-left: 50px;
+}
+
+.mice>p{
+    padding-top: 10px;
+}
+
+.mice>h2{
+    padding-top: 10px;
+}
+
+.ax{
+    padding-top:10px;
+}
+
+.bx{
+    padding-top: 50px;
+}
+
+.cx{
+    padding-right: 50px;
+}
+
+footer{
+    margin: 0 80px;
+}
